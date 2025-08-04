@@ -1,8 +1,8 @@
 # Intérprete del Lenguaje L - Tarea 2
 
-## Implementación
-
 Este proyecto implementa un intérprete funcional para un lenguaje de programación simple, denominado **L**, como parte de la Tarea 2 del curso de Teoría de la Computación. Se utilizaron **Flex** para el análisis léxico y **Bison** para el análisis sintáctico (parsing).
+
+## Implementación
 
 La implementación se compone de los siguientes archivos:
 
